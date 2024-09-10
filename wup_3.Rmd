@@ -55,3 +55,6 @@ The front and the back are different, the middle and the front are not different
 ## Conclusions
 
 
+Today started with making a box plot, the results on how much a row drinks of alcohol. Plus I also learned a new thing today, if there is three or more things to compare we can run a qualifying test that is "one way anova".
+The probability was between 0 and 1 so I then investigated further and plotted another model that showed how different the back seats were.
+
