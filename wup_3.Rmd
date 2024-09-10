@@ -32,6 +32,9 @@ boxplot(alcohol~Seat,data=davisdata)
 
 
 ## Numerical Summarys 
+```{r}
+favstats(alcohol~Seat,data=ucdavis1)
+```
 
 ## Inferential Tests
 
