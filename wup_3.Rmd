@@ -35,6 +35,8 @@ boxplot(alcohol~Seat,data=davisdata)
 ```{r}
 favstats(alcohol~Seat,data=ucdavis1)
 ```
+The front and back seats has around the same number of people but for the back row it has more than twice their numbers. While the back seat had 32 people in the back seat had a max of 55 drinks which is significantly higher than the front and middle seats.
+
 
 ## Inferential Tests
 
